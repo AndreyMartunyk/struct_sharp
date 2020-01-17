@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0DBA8E02-EBAB-47F8-B2DD-C218E76FC132}</ProjectGuid>
+    <ProjectGuid>{47896EF0-02FC-4013-A10D-484209679A0F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>struct_sharp</RootNamespace>
-    <AssemblyName>struct_sharp</AssemblyName>
+    <RootNamespace>enum_sharp</RootNamespace>
+    <AssemblyName>enum_sharp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Notebook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
