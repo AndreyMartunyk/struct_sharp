@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_sharp", "struct_sharp\struct_sharp.csproj", "{0DBA8E02-EBAB-47F8-B2DD-C218E76FC132}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_notepad_sharp", "struct_sharp\struct_notepad_sharp.csproj", "{0DBA8E02-EBAB-47F8-B2DD-C218E76FC132}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum_sharp", "enum_sharp\enum_sharp.csproj", "{47896EF0-02FC-4013-A10D-484209679A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_train_sharp", "struct_train_sharp\struct_train_sharp.csproj", "{2CBE42BE-2456-4C0C-BEB2-E6DE35F03A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_change_sharp", "struct_change_sharp\struct_change_sharp.csproj", "{159172FE-02A5-4623-9BF3-4426E0BB560D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birthDate_sharp", "birthDate_sharp\birthDate_sharp.csproj", "{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{47896EF0-02FC-4013-A10D-484209679A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47896EF0-02FC-4013-A10D-484209679A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47896EF0-02FC-4013-A10D-484209679A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBE42BE-2456-4C0C-BEB2-E6DE35F03A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBE42BE-2456-4C0C-BEB2-E6DE35F03A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBE42BE-2456-4C0C-BEB2-E6DE35F03A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBE42BE-2456-4C0C-BEB2-E6DE35F03A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159172FE-02A5-4623-9BF3-4426E0BB560D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159172FE-02A5-4623-9BF3-4426E0BB560D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159172FE-02A5-4623-9BF3-4426E0BB560D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159172FE-02A5-4623-9BF3-4426E0BB560D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
