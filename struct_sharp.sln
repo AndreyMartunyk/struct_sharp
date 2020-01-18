@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_change_sharp", "stru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birthDate_sharp", "birthDate_sharp\birthDate_sharp.csproj", "{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accaunt", "Accaunt\Accaunt.csproj", "{7908B0CA-84F4-4D53-8911-31B8D02ED556}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA7D8FF4-85EC-4041-919A-49B7C6D5CF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7908B0CA-84F4-4D53-8911-31B8D02ED556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7908B0CA-84F4-4D53-8911-31B8D02ED556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7908B0CA-84F4-4D53-8911-31B8D02ED556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7908B0CA-84F4-4D53-8911-31B8D02ED556}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
