@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace enum_sharp
 {
-    class Program
+    enum UserColor
     {
-        static void Main(string[] args)
-        {
-            new Client().Run();
-
-            Console.ReadKey();
-        }
+        red = 12,
+        blue = 9,
+        white = 15,
+        cyan = 11,
+        yellow = 14,
     }
 }

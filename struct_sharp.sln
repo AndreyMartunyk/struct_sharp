@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_notepad_sharp", "struct_sharp\struct_notepad_sharp.csproj", "{0DBA8E02-EBAB-47F8-B2DD-C218E76FC132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum_sharp", "enum_sharp\enum_sharp.csproj", "{47896EF0-02FC-4013-A10D-484209679A0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum_printColor_sharp", "enum_sharp\enum_printColor_sharp.csproj", "{47896EF0-02FC-4013-A10D-484209679A0F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct_train_sharp", "struct_train_sharp\struct_train_sharp.csproj", "{2CBE42BE-2456-4C0C-BEB2-E6DE35F03A78}"
 EndProject
